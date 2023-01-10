@@ -1,4 +1,7 @@
 ###
+<h1 align="center">Hi there, I'm <a href="" target="_blank">Vadim</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 # Проект одностраничного сайта «Научиться учиться»
 Проект выполнен в рамках обучения в Яндекс.Практикуме по профессии Web-разработчик. 
